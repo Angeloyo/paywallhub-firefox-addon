@@ -1,9 +1,10 @@
-# paywallhub-firefox-addon
 
-Remove newspaper/magazine paywalls for free and legally!
+# PaywallHub Firefox Addon
 
-PaywallHub unites all your favorite paywall removers.
+Firefox Addon that simply brings together various tools capable of removing paywalls, ads, and pop-ups from news articles and other content, all in one place. It allows users to easily experiment and find the most effective solution for different websites.
 
-PaywallHub effectively allows you to remove paywalls or bypass the paywall on an article but in a way that does not interfere with the original page in any way. It simply redirects you to third-party websites that do that. I do not own, run, maintain, or have any association with these sites.
+## Important Notice
 
-![image-paywallhub](/img/1.png)
+This extension has been removed from the Firefox Add-ons Store. However, the source code is available in this repository for those who wish to explore or manually install it.
+
+This repository is provided for educational purposes only. The use of this extension is at your own risk, and it is your responsibility to comply with all applicable laws and terms of service.
